@@ -30,7 +30,7 @@ Users should be able to:
 ### Screenshot
 
 ![DesktopShot](https://user-images.githubusercontent.com/47177361/148452932-b33d75c3-35be-4eb3-9730-6a0bdcdb649a.png)
-
+![MobileShot](https://user-images.githubusercontent.com/47177361/148453152-89f03a67-6b53-4618-b811-c860875aab89.png)
 
 
 ### Links
@@ -42,13 +42,13 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS3
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
 - React(https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
+- Styled Components (https://styled-components.com/) - For Styles
 
 ## Author
 
