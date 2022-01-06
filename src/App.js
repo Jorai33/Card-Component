@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import equilibrium from "../src/images/image-equilibrium.jpg";
 import avatar from "../src/images/image-avatar.png";
+import GlobalStyle from "./globalStyle";
 
 // React Component (SVG into React)
 import Ethereum from "./components/Ethereum";
@@ -167,6 +168,8 @@ const ArtistName = styled.div`
 
 function App() {
   return (
+    <>
+    <GlobalStyle />
     <Main>
       <Card>
         <Container>
@@ -200,6 +203,7 @@ function App() {
         </Container>
       </Card>
     </Main>
+    </>
   );
 }
 
