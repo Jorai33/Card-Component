@@ -29,8 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-[](src\images\DesktopShot.png)
-[](src\images\MobileShot.png)
+![DesktopShot](https://user-images.githubusercontent.com/47177361/148452932-b33d75c3-35be-4eb3-9730-6a0bdcdb649a.png)
+
+
 
 ### Links
 
