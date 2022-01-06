@@ -180,7 +180,7 @@ function App() {
           </Image>
           <Title>Equilibrium #3429</Title>
           <Description>
-            Our Equilibrium collection promotes balnce and calm.
+            Our Equilibrium collection promotes balance and calm.
           </Description>
           <Money>
             <Price>
